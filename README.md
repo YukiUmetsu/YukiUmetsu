@@ -6,10 +6,9 @@ Software Engineer
 
 I've been coding since 2014, been working as software engineer since 2015.
 
-* 🌍  I'm based in Irving TX, USA
+* 🌍  I'm based in Oklahoma, USA
 * 🇯🇵  I'm from Japan
 * 📖  I love learning new technologies. [See my list of certifications on LinkedIn](https://www.linkedin.com/in/yuki-umetsu/details/certifications/)
-* 🚀  I'm currently working on [splinter-explorer.com](http://www.splinter-explorer.com/) (empower players of blockchain based trading card game [splinterlands](https://splinterlands.com) with data)
 * 📗  Greencard holder (authorized to work in the US, not require sponsorships)
 * 🤝  I'm open to collaborating on interesting projects
 
@@ -19,7 +18,6 @@ I've been coding since 2014, been working as software engineer since 2015.
 <p align="left">
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /></a>
